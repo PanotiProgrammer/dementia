@@ -50,7 +50,8 @@ The project uses the OASIS Brain Dataset, which includes:
 - Demographic information
 
 <div align="center">
-  <img src="images/correlation_matrix.png" alt="Correlation Matrix of Features" width="600"/>
+  <img src="![image](https://github.com/user-attachments/assets/b9c103c4-fa7d-40f9-a0ad-a9694315727d)
+" alt="Correlation Matrix of Features" width="600"/>
 </div>
 
 ## 🏗️ Model Architecture
@@ -79,28 +80,33 @@ The project uses the OASIS Brain Dataset, which includes:
 
 ### Model Performance
 <div align="center">
-  <img src="images/model_performance.png" alt="Model Performance Metrics" width="800"/>
+  <img src="![Model_performance](https://github.com/user-attachments/assets/fe4c7fbd-b7aa-4625-98aa-d444eb727a06)
+" alt="Model Performance Metrics" width="800"/>
 </div>
 
 ### Feature Importance
 <div align="center">
-  <img src="images/feature_importance.png" alt="Feature Importance Analysis" width="600"/>
+  <img src="![2fafce42b1a4106ef37df2799ca8098bf75c29c903560c9d7036d321](https://github.com/user-attachments/assets/91371855-9cb0-4969-af7c-132424833f62)
+" alt="Feature Importance Analysis" width="600"/>
 </div>
 
 ### Learning Curves
 <div align="center">
-  <img src="images/learning_curves_random_forest.png" alt="Random Forest Learning Curve" width="400"/>
-  <img src="images/learning_curves_neural_network.png" alt="Neural Network Learning Curve" width="400"/>
+  <img src="![Uploading learning_curves_random_forest.png…]()
+" alt="Random Forest Learning Curve" width="400"/>
+  <img src="" alt="Neural Network Learning Curve" width="400"/>
 </div>
 
 ### Calibration Analysis
 <div align="center">
-  <img src="images/calibration_curves.png" alt="Model Calibration Curves" width="600"/>
+  <img src="![image](https://github.com/user-attachments/assets/cabb4208-7b4c-4d5e-a21e-77aa0d4b47a5)
+" alt="Model Calibration Curves" width="600"/>
 </div>
 
 ### Confusion Matrices
 <div align="center">
-  <img src="images/confusion_matrices.png" alt="Model Confusion Matrices" width="800"/>
+  <img src="![confusion_matrices](https://github.com/user-attachments/assets/cdad51b9-82e5-4208-9b9a-93aa534f401c)
+" alt="Model Confusion Matrices" width="800"/>
 </div>
 
 ## 🚀 Installation
@@ -151,5 +157,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Your Name</sub>
+  <sub>Built with ❤️ by Anand Sharma</sub>
 </div> 
