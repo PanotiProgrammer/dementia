@@ -49,7 +49,9 @@ The project uses the OASIS Brain Dataset, which includes:
 - MRI measurements (nWBV, ASF)
 - Demographic information
 
-![Dataset Overview](correlation_matrix.png)
+<div align="center">
+  <img src="images/correlation_matrix.png" alt="Correlation Matrix of Features" width="600"/>
+</div>
 
 ## 🏗️ Model Architecture
 
@@ -76,20 +78,30 @@ The project uses the OASIS Brain Dataset, which includes:
 ## 📈 Results
 
 ### Model Performance
-![Model Performance](model_performance.png)
+<div align="center">
+  <img src="images/model_performance.png" alt="Model Performance Metrics" width="800"/>
+</div>
 
 ### Feature Importance
-![Feature Importance](feature_importance.png)
+<div align="center">
+  <img src="images/feature_importance.png" alt="Feature Importance Analysis" width="600"/>
+</div>
 
 ### Learning Curves
-![Random Forest Learning Curve](learning_curves_random_forest.png)
-![Neural Network Learning Curve](learning_curves_neural_network.png)
+<div align="center">
+  <img src="images/learning_curves_random_forest.png" alt="Random Forest Learning Curve" width="400"/>
+  <img src="images/learning_curves_neural_network.png" alt="Neural Network Learning Curve" width="400"/>
+</div>
 
 ### Calibration Analysis
-![Calibration Curves](calibration_curves.png)
+<div align="center">
+  <img src="images/calibration_curves.png" alt="Model Calibration Curves" width="600"/>
+</div>
 
 ### Confusion Matrices
-![Confusion Matrices](confusion_matrices.png)
+<div align="center">
+  <img src="images/confusion_matrices.png" alt="Model Confusion Matrices" width="800"/>
+</div>
 
 ## 🚀 Installation
 
@@ -139,5 +151,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Anand Sharma</sub>
+  <sub>Built with ❤️ by Your Name</sub>
 </div> 
